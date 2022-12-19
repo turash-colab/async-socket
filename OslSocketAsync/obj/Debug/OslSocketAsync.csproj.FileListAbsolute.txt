@@ -1,0 +1,17 @@
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.dll
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.pdb
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.csprojResolveAssemblyReference.cache
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.dll
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.pdb
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.dll
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.pdb
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.csprojAssemblyReference.cache
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.dll
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\bin\Debug\OslSocketAsync.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\Debug\OslSocketAsync.pdb

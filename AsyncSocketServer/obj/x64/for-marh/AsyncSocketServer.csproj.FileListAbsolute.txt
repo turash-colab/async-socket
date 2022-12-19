@@ -1,0 +1,11 @@
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\x64\for-marh\AsyncSocketServer.exe.config
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\x64\for-marh\AsyncSocketServer.exe
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\x64\for-marh\OslSocketAsync.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.csproj.SuggestedBindingRedirects.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.Form1.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.Properties.Resources.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.csproj.GenerateResource.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.csproj.CopyComplete
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\x64\for-marh\AsyncSocketServer.exe

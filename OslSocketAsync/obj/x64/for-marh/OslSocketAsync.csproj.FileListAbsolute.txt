@@ -1,0 +1,4 @@
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\bin\x64\for-marh\OslSocketAsync.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\x64\for-marh\OslSocketAsync.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\x64\for-marh\OslSocketAsync.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\OslSocketAsync\obj\x64\for-marh\OslSocketAsync.dll

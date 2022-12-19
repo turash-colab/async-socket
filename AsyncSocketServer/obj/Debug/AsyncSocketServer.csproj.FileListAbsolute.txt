@@ -1,0 +1,49 @@
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csprojResolveAssemblyReference.cache
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.Cache
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.dll
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.pdb
+c:\users\turash\documents\visual studio 2017\Projects\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Form1.resources
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.dll
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.pdb
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csprojResolveAssemblyReference.cache
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Form1.resources
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.Cache
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+D:\TCPIPSocketProgrammingRedo\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.dll
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.pdb
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csprojAssemblyReference.cache
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Form1.resources
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.cache
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CopyComplete
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+C:\Users\turash\Downloads\Code-2017n-Using-DNS-to-resolve-IP-Address-by-HostName\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\bin\Debug\OslSocketAsync.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.SuggestedBindingRedirects.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Form1.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CopyComplete
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+D:\dev\csharp-csharp-everywhere\winf_to_mssql5_den_files\Code\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb

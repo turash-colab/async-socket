@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketServer", "AsyncSocketServer\AsyncSocketServer.csproj", "{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OslSocketAsync", "OslSocketAsync\OslSocketAsync.csproj", "{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		for-marh|Any CPU = for-marh|Any CPU
+		for-marh|x64 = for-marh|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Debug|x64.ActiveCfg = Debug|x64
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Debug|x64.Build.0 = Debug|x64
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.for-marh|Any CPU.ActiveCfg = for-marh|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.for-marh|Any CPU.Build.0 = for-marh|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.for-marh|x64.ActiveCfg = for-marh|x64
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.for-marh|x64.Build.0 = for-marh|x64
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Release|x64.ActiveCfg = Release|x64
+		{7AA3EDE7-BEAC-4DA6-ABE9-8FF8E4D5C28C}.Release|x64.Build.0 = Release|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Debug|x64.ActiveCfg = Debug|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Debug|x64.Build.0 = Debug|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.for-marh|Any CPU.ActiveCfg = for-marh|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.for-marh|Any CPU.Build.0 = for-marh|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.for-marh|x64.ActiveCfg = for-marh|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.for-marh|x64.Build.0 = for-marh|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Release|x64.ActiveCfg = Release|x64
+		{D2ADBA01-689E-4DD5-9C1B-E92FB76EA226}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB00C2C2-082C-4D2F-A71A-5EEFCBCE8CDC}
+	EndGlobalSection
+EndGlobal
